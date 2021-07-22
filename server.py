@@ -4,7 +4,7 @@ import subprocess
 
 host_ip= socket.gethostbyname(socket.gethostname())
 port=99
-userid=[]
+#userid=[]
 buffer_size=1024*128
 in_check=True
 out_check=True
